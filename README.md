@@ -225,5 +225,5 @@ Successfully transformed raw customer transaction data into meaningful business 
 
 ## Author
 
-**[Pavani Panga]**
+**Pavani Panga**
 
